@@ -35,8 +35,8 @@ No vendemos servicios genéricos: diseñamos soluciones sólidas, bien pensadas 
 
 **Hekyra** es la marca madre. **Security** y **Dev** son submarcas que comparten la misma identidad visual y solo cambian el acento de color y el símbolo interno del ojo.
 
-| Marca | Enfoque | Símbolo interno | Color acento |
-|-------|---------|-----------------|--------------|
+| Marca   |   Enfoque |
+|-------|---------|
 | **Hekyra** (madre)   |   Identidad corporativa | 
 | **Hekyra Security**   |   Ciberseguridad y redes |
 | **Hekyra Dev**   |   Desarrollo de software 
