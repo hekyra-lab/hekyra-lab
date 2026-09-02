@@ -37,9 +37,9 @@ No vendemos servicios genéricos: diseñamos soluciones sólidas, bien pensadas 
 
 | Marca | Enfoque | Símbolo interno | Color acento |
 |-------|---------|-----------------|--------------|
-| **Hekyra** (madre) | Identidad corporativa | Pupila / ojo | Gris `#666666` |
-| **Hekyra Security** | Ciberseguridad y redes | 🔒 Candado | Verde `#2ED47A` |
-| **Hekyra Dev** | Desarrollo de software | `</>` Código | Violeta `#8B5CF6` |
+| **Hekyra** (madre)   |   Identidad corporativa | 
+| **Hekyra Security**   |   Ciberseguridad y redes |
+| **Hekyra Dev**   |   Desarrollo de software 
 
 - Hekyra es la marca madre.
 - Security y Dev son submarcas.
