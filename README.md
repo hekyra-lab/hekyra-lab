@@ -48,54 +48,6 @@ No vendemos servicios genéricos: diseñamos soluciones sólidas, bien pensadas 
 
 ---
 
-## 🎨 Identidad visual
-
-### Paletas de color
-
-**Hekyra Base**
-
-| | | | | |
-|---|---|---|---|---|
-| `#0B1414` | `#1A1F2B` | `#2E3445` | `#E6EAF0` | `#666666` |
-| Fondo | Superficie | Elevado | Texto claro | Neutro |
-
-**Hekyra Security**
-
-| | | | | |
-|---|---|---|---|---|
-| `#0B1414` | `#1A1F2B` | `#2E3445` | `#E6EAF0` | `#2ED47A` |
-| Fondo | Superficie | Elevado | Texto claro | **Acento verde** |
-
-**Hekyra Dev**
-
-| | | | | |
-|---|---|---|---|---|
-| `#0B1414` | `#1A1F2B` | `#2E3445` | `#E6EAF0` | `#8B5CF6` |
-| Fondo | Superficie | Elevado | Texto claro | **Acento violeta** |
-
-### Tipografías
-
-| Tipografía | Uso recomendado |
-|------------|-----------------|
-| **Space Grotesk** | Titulares y display |
-| **Inter** | Texto general / UI |
-| **JetBrains Mono** | Código, etiquetas técnicas, datos |
-| **Satoshi Variable** | Apoyo / editorial |
-
-### Activos de logo disponibles
-
-Cada marca dispone de **Logotipo**, **Isotipo** y versión **Monocromática**, exportados en `.ai` y en PNG a distintas resoluciones (32w → 3000w).
-
-```
-logos/
-├── Hekyra/        → Logotipo · Isotipo · Monocromo
-├── H Security/    → Logotipo · Isotipo · Monocromo
-├── H Dev/         → Logotipo · Isotipo · Monocromo
-└── BrainStorm/    → Bocetos y exploraciones iniciales
-```
-
----
-
 ## 🛡️ Servicios
 
 Tres líneas de trabajo — **Core**, **Security** y **Dev** — que se contratan por separado o combinadas en packs.
