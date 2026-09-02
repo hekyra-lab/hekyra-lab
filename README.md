@@ -118,40 +118,6 @@ Tres líneas de trabajo — **Core**, **Security** y **Dev** — que se contrata
 
 ---
 
-## 📅 Servicios Mensuales
-
-> *Tres planes de soporte y seguimiento continuo, según el tamaño y la madurez tecnológica de cada empresa. Cada plan es acumulativo.*
-
-| | **Básico** | **Estándar** ⭐ *(recomendado)* | **Avanzado** |
-|---|---|---|---|
-| **Para** | Autónomos y microempresas | Pymes pequeñas y medianas | Empresas con alta dependencia tecnológica |
-| Soporte técnico remoto | ✅ | ✅ Prioritario | ✅ Preferente |
-| Revisión de seguridad | Mensual general | Monitorización avanzada | Gestión activa |
-| Incidencias | Menores | + Hardening progresivo | + Corrección de vulnerabilidades |
-| Gestión de usuarios y accesos | — | ✅ Básica | ✅ |
-| Copias de seguridad | — | — | ✅ Revisión |
-| Reunión de seguimiento | — | — | ✅ Mensual |
-| Informe mensual de estado | — | ✅ | ✅ |
-
-*El Estándar incluye todo el Básico; el Avanzado incluye todo el Estándar. La transición entre planes se hace en cualquier momento, sin empezar de cero.*
-
----
-
-## 📦 Packs de Servicios
-
-> *Combinaciones pensadas para cubrir distintas etapas: empezar a protegerte, mantener la seguridad o delegar tu IT por completo.*
-
-| Pack | Ideal para | Incluye |
-|------|------------|---------|
-| **Inicio Seguro** 🟢 | Empezar a protegerse | Auditoría Básica + informe y roadmap + 1 mes Plan Básico |
-| **Seguridad Continua** 🟢 | Mantener el entorno seguro | Auditoría Avanzada + corrección inicial de vulnerabilidades críticas + 1 mes Plan Estándar |
-| **Infraestructura y Red** 🟢 | Revisar o montar la red | Auditoría Avanzada de Red + Hardening + documentación + 1 mes Plan Estándar |
-| **Partner Tecnológico** 🟣 | Delegar el IT por completo | Auditoría completa (seguridad + red) + mejoras prioritarias + Plan Avanzado + revisión y optimización continua |
-
-*Todos los packs son adaptables: la duración del plan mensual y el alcance de la auditoría se ajustan en la reunión inicial.*
-
----
-
 ## 🤝 Asesoramiento Previo
 
 Antes de contratar cualquier servicio o pack, recomendamos una **reunión previa** con nuestro equipo. Nos permite analizar las necesidades reales de cada empresa y ofrecer un asesoramiento personalizado, adaptando los servicios a su entorno, objetivos y nivel de madurez tecnológica.
