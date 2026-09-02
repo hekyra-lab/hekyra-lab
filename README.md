@@ -4,7 +4,7 @@
 
 **Cybersecurity · Networking · Software**
 
-*Pamplona · Navarra · 2026*
+*Navarra · 2026*
 
 `hekyra.com`
 
